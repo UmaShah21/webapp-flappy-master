@@ -1,0 +1,35 @@
+.jumbotron h1 {
+    color: deeppink;
+    font-size: 50px;
+    font-style: bold;
+    font-family: "Stencil";
+}
+
+.gold{
+    color: gold;
+}
+
+.silver {
+    color: gray;
+}
+
+.bronze{
+    color: brown;
+}
+
+.label {
+    font-family: "Helvetica Neue";
+    font-size: 15px;
+    color: deeppink;
+}
+
+#gameLink{
+  text-align: center;
+  border: 1px solid gray;
+}
+
+body {
+  background-color: pink;
+  font-family: "Helvetica Neue";
+  font-size: 15px;
+}
